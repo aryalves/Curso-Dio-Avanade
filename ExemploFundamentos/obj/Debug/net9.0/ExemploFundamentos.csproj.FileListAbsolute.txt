@@ -1,0 +1,15 @@
+D:\Curso-dio-Ary\ExemploFundamentos\bin\Debug\net9.0\ExemploFundamentos.exe
+D:\Curso-dio-Ary\ExemploFundamentos\bin\Debug\net9.0\ExemploFundamentos.deps.json
+D:\Curso-dio-Ary\ExemploFundamentos\bin\Debug\net9.0\ExemploFundamentos.runtimeconfig.json
+D:\Curso-dio-Ary\ExemploFundamentos\bin\Debug\net9.0\ExemploFundamentos.dll
+D:\Curso-dio-Ary\ExemploFundamentos\bin\Debug\net9.0\ExemploFundamentos.pdb
+D:\Curso-dio-Ary\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso-dio-Ary\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.AssemblyInfoInputs.cache
+D:\Curso-dio-Ary\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.AssemblyInfo.cs
+D:\Curso-dio-Ary\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+D:\Curso-dio-Ary\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.sourcelink.json
+D:\Curso-dio-Ary\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.dll
+D:\Curso-dio-Ary\ExemploFundamentos\obj\Debug\net9.0\refint\ExemploFundamentos.dll
+D:\Curso-dio-Ary\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.pdb
+D:\Curso-dio-Ary\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.genruntimeconfig.cache
+D:\Curso-dio-Ary\ExemploFundamentos\obj\Debug\net9.0\ref\ExemploFundamentos.dll
